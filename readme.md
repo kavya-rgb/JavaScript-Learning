@@ -1,0 +1,27 @@
+# What Is JavaScript
+JavaScript (Js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity.
+Although, JavaScript has no connectivity with Java programming language. The name was suggested and provided in the times when Java was gaining popularity in the market. In addition to web browsers, databases such as CouchDB and MongoDB uses JavaScript as their scripting and query language.
+
+# Features of JavaScript
+There are following features of JavaScript:
+
+1. All popular web browsers support JavaScript as they provide built-in execution environments.
+2. JavaScript follows the syntax and structure of the C programming language. Thus, it is a structured programming language.
+3. JavaScript is a weakly typed language, where certain types are implicitly cast (depending on the operation).
+4. JavaScript is an object-oriented programming language that uses prototypes rather than using classes for inheritance.
+5. It is a light-weighted and interpreted language.
+6. It is a case-sensitive language.
+7. JavaScript is supportable in several operating systems including, Windows, macOS, etc.
+8. It provides good control to the users over the web browsers.
+
+# History of JavaScript
+In 1993, **Mosaic**, the first popular web browser, came into existence. In the year **1994**, **Netscape ** was founded by **Marc Andreessen**. He realized that the web needed to become more dynamic. Thus, a 'glue language' was believed to be provided to HTML to make web designing easy for designers and part-time programmers. Consequently, in 1995, the company recruited **Brendan Eich** intending to implement and embed Scheme programming language to the browser. But, before Brendan could start, the company merged with **Sun Microsystems** for adding Java into its Navigator so that it could compete with Microsoft over the web technologies and platforms. Now, two languages were there: Java and the scripting language. Further, Netscape decided to give a similar name to the scripting language as Java's. It led to 'Javascript'. Finally, in May 1995, Marc Andreessen coined the first code of Javascript named '**Mocha**'. Later, the marketing team replaced the name with '**LiveScript**'. But, due to trademark reasons and certain other reasons, in December 1995, the language was finally renamed to '**JavaScript**'. From then, JavaScript came into existence.
+
+# Application of JavaScript
+JavaScript is used to create interactive websites. It is mainly used for:
+
+- Client-side validation,
+- Dynamic drop-down menus,
+- Displaying date and time,
+- Displaying pop-up windows and dialog boxes (like an alert dialog box, confirm dialog box and prompt dialog box),
+- Displaying clocks etc.
